@@ -1,0 +1,12 @@
+{
+    "phonegap-plugin-push": {
+        "source": {
+            "type": "registry",
+            "id": "phonegap-plugin-push@^1.10.4"
+        },
+        "is_top_level": true,
+        "variables": {
+            "SENDER_ID": "Not Required for iOS"
+        }
+    }
+}
